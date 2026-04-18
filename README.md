@@ -12,15 +12,20 @@ A key focus of the course is not only technical execution, but also human-center
 ---
 
 ## Instructor  
-This course was led by an instructor with a strong focus on **creative exploration, critical thinking, and practical application of visualization techniques**.  
+
+This course was led by **Gabby Resch**, whose teaching style brought a strong balance of creativity, critical thinking, and practical application of visualization techniques.  
+
+Gabby created a highly engaging and supportive learning environment, consistently motivating students with his friendly and approachable manner. He was always willing to help—not only with course material, but also with broader questions—making the learning experience both enjoyable and meaningful.  
 
 Students were encouraged to:
 - Experiment with different storytelling formats  
-- Iterate on designs through sketches and prototypes  
+- Iterate through sketches and prototypes  
 - Think beyond traditional dashboards and reports  
 - Focus on audience engagement and narrative clarity  
 
-The teaching approach emphasized building **portfolio-ready projects** aligned with real-world data communication challenges.  
+His teaching approach emphasized real world data.  
+
+A sincere thank you as well to **Cole (TA)** for his guidance and support throughout the course. His feedback and availability were greatly appreciated.
 
 ---
 
