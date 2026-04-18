@@ -3,11 +3,11 @@
 ## Course Overview  
 **MBAI 5400G – Visualization and Storytelling**  
 
-This portfolio showcases work completed as part of a highly interactive, hands-on course focused on data visualization and storytelling. The course emphasizes transforming complex datasets into clear, compelling visual narratives that support data-driven decision-making.  
+This portfolio showcases work completed as part of a highly interactive, hands on course focused on data visualization and storytelling. The course emphasizes transforming complex datasets into clear, compelling visual narratives that support data driven decision making.  
 
-Throughout the course, students worked with industry-standard tools to design reports, dashboards, and visual stories, while also applying elements of predictive analytics to uncover patterns such as customer behavior, sales trends, and operational challenges.  
+Throughout the course, students worked with industry standard tools to design reports, dashboards, and visual stories, while also applying elements of analytics.
 
-A key focus of the course is not only technical execution, but also human-centered storytelling,  designing visualizations that communicate insights effectively to specific audiences and drive meaningful understanding.  
+A key focus of the course is not only technical execution, but also human centered storytelling,  designing visualizations that communicate insights effectively to specific audiences and drive meaningful understanding.  
 
 ---
 
